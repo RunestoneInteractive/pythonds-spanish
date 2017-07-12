@@ -1,0 +1,10 @@
+..  Copyright (C)  Brad Miller, David Ranum
+    This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
+
+
+Desempeño de las estructuras de datos de Python
+-----------------------------------------------
+
+Ahora que usted ya tiene una idea general de la notación O-grande y de las diferencias entre las diferentes funciones, nuestro objetivo en esta sección es hablarle sobre el desempeño O-grande para las operaciones en las listas de Python y los diccionarios. A continuación, le mostraremos algunos experimentos de temporización que ilustran los costos y beneficios de utilizar ciertas operaciones en cada estructura de datos. Es importante que usted entienda la eficiencia de estas estructuras de datos de Python, ya que son los bloques constructivos que usaremos al implementar otras estructuras de datos en el resto del libro. En esta sección no vamos a explicar por qué el desempeño es el que es. En capítulos posteriores usted verá algunas implementaciones posibles tanto de las listas como de los diccionarios y cómo el rendimiento depende de la implementación.
+
+.. Now that you have a general idea of Big-O notation and the differences between the different functions, our goal in this section is to tell you about the Big-O performance for the operations on Python lists and dictionaries. We will then show you some timing experiments that illustrate the costs and benefits of using certain operations on each data structure. It is important for you to understand the efficiency of these Python data structures because they are the building blocks we will use as we implement other data structures in the remainder of the book. In this section we are not going to explain why the performance is what it is. In later chapters you will see some possible implementations of both lists and dictionaries and how the performance depends on the implementation.
